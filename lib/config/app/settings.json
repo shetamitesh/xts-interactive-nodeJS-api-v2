@@ -20,6 +20,7 @@
     "position": "/portfolio/positions",
     "convert": "/portfolio/positions/convert",
     "squareoff": "/portfolio/squareoff",
+    "squareoffall": "/portfolio/squareoffall",
     "enums": "/user/enums",
     "message": "/messages/exchange",
     "status": "/status/exchange",
