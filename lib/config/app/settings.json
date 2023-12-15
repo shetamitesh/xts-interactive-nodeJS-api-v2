@@ -7,7 +7,8 @@
     "order": "order",
     "trade": "trade",
     "position": "position",
-    "logout": "logout"
+    "logout": "logout",
+    "pong": "pong"
   },
   "restApi": {
     "session": "/user/session",
